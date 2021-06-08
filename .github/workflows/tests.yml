@@ -29,5 +29,5 @@ jobs:
         run: flutter test --coverage
 
       - name: Upload coverage to codecov
-        run: curl -s https://codecov.io/bash -t ${{ secrets.CODECOV_TOKEN }}
-        shell: bash
+        uses: codecov/codecov-action@v1.5.0
+
