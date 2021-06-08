@@ -18,7 +18,6 @@ jobs:
         uses: subosito/flutter-action@v1.5.1
         with:
           flutter-version: '2.2.1'
-        run: flutter --version  
       
       - name: Retrieve packages
         run: flutter pub get
