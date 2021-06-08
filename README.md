@@ -2,6 +2,8 @@
 
 The Flutter Test Sample project was created based on [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/) Codelab.
 
+In addition, I added [run Flutter tests using GitHub Actions and Codecov](https://damienaicheh.github.io/flutter/github/actions/2021/05/06/flutter-tests-github-actions-codecov-en.html).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
